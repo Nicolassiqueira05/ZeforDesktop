@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mangojoedesktop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mangojoedesktop_jar</output-path>
+    <root id="archive" name="mangojoedesktop.jar">
+      <element id="module-output" name="mangojoedesktop" />
+    </root>
+  </artifact>
+</component>
